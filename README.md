@@ -1,0 +1,1 @@
+# cop3502-lab-6-the-cow-strikes-back-solved
